@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="http://epg.serbianforum.org/losmij/epg.xml.gz"
+#EXTINF:-1 group-title="Arena Premium 1 (SN)" tvg-name="arenasport1premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Arena_Sport_Premium_1_2021.png/revision/latest?cb=20250318191815",Arena Sport 1 Premium
+https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
+#EXTINF:-1 group-title="Arena Premium 2 (SN)" tvg-name="arenasport2premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Arena_Sport_Premium_2_2021.png/revision/latest?cb=20250318191920",Arena Sport 2 Premium
+https://x4new.newkso.ru/x4/arena2premiumserbia/mono.m3u8
+#EXTINF:-1 group-title="Arena Premium 3 (SN)" tvg-name="arenasport3premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Arena_Sport_Premium_3_2021.png/revision/latest?cb=20250318192038",Arena Sport 3 Premium
+https://x4new.newkso.ru/x4/arena3premiumserbia/mono.m3u8
