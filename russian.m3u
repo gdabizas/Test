@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_RU.xml"
 #EXTINF:-1 group-title="Russian" tvg-name="6091" epg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1920px-Russia-1.svg.png",Россия-1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Russian" tvg-name="6379" epg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1024px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",Первый канал
+#EXTINF:-1 group-title="Russian" tvg-name="Первый канал" epg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1024px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",Первый канал
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Russian" tvg-name="6463" epg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1024px-Zvezda_logo.svg.png",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
