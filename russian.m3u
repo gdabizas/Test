@@ -5,7 +5,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Russian" tvg-name="6463" epg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1024px-Zvezda_logo.svg.png",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="Russian" tvg-name="7184" epg-id="7184" tvg-logo="https://static.tildacdn.com/tild3536-6636-4830-a235-653366636566/zvezda_plyus.png",Звезда Плюс
+#EXTINF:-1 group-title="Russian" tvg-id="7184" tvg-name="ffff" epg-id="" tvg-logo="https://static.tildacdn.com/tild3536-6636-4830-a235-653366636566/zvezda_plyus.png",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Russian" tvg-name="6228" epg-id="" tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png?278",Красная Линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
