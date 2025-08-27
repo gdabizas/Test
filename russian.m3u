@@ -1,0 +1,39 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_RU.xml"
+#EXTINF:-1 group-title="Russian" tvg-id="6091" tvg-name="6091" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1920px-Russia-1.svg.png",Россия-1 FHD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="6379" tvg-name="6379" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1024px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",Первый канал FHD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Russian" tvg-id="6463" tvg-name="6463" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1024px-Zvezda_logo.svg.png",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7184" tvg-name="7184" tvg-logo="https://static.tildacdn.com/tild3536-6636-4830-a235-653366636566/zvezda_plyus.png",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="6228" tvg-name="6228" tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png?278",Красная Линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8 SD
+#EXTINF:-1 group-title="Russian" tvg-id="5926" tvg-name="5926" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1024px-NTV_logo_2003.svg.png",НТВ FHD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7360" tvg-name="7360" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/1920px-TV_Tsentr_2013_Logo.svg.png",ТВЦ HD
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7565" tvg-name="7565" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/1024px-%D0%9CD0%B8%D1%80_%D0%A2%D0%92_logo.svg.png",Мир FHD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7236" tvg-name="7236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1024px-5-tv_logo_%282023%29.svg.png",Пятый канал SD
+http://178.217.72.66:8080/5_Kanal/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7334" tvg-name="7334" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/a/a5/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%C2%BB_%D1%81_16_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2017.png/1024px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%C2%BB_%D1%81_16_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2017.png",Домашний FHD
+http://178.217.72.66:8080/Domashniy/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7129" tvg-name="7129" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1920px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png",Пятница! FHD
+http://178.217.72.66:8080/Pyatnitsa/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="6185" tvg-name="6185" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0.png",Суббота! HD
+http://178.217.72.66:8080/super/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7125" tvg-name="7125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png",СТС FHD
+http://178.217.72.66:8080/STS/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="6280" tvg-name="6280" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png",ТНТ FHD
+http://178.217.72.66:8080/TNT_HD/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="6285" tvg-name="6295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/800px-REN_TV_logo_2017.svg.png",РЕН ТВ FHD
+http://178.217.72.66:8080/REN_TV/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7743" tvg-name="7743" tvg-logo="https://teotv.ru/static/images/dist/logo.svg",ТЕО-ТВ HD
+https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="7660" tvg-name="7660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Pobeda_logo_tele%28k%29%28ch%29a%28na%29%28nne%29l.png",Победа SD
+http://178.217.72.66:8080/pobeda/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="6873" tvg-name="6873" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC._%D0%97%D0%9A.png/revision/latest/scale-to-width-down/1200?cb=20200831180402&path-prefix=ru",Мосфильм. Золотая Коллекция SD
+http://178.217.72.66:8080/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Russian" tvg-id="412065" tvg-name="412065" tvg-logo="https://static.tildacdn.com/tild6136-3038-4765-b663-663336366261/_18.png",Надежда FHD
+https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
