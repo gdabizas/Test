@@ -12,7 +12,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Russian" tvg-id="6228" tvg-name="6228" tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png?278",Красная Линия SD
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="Russian" tvg-id="5926" tvg-name="5926" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1024px-NTV_logo_2003.svg.png",НТВ FHD
-http://178.212.71.253:8000/play/33/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="Russian" tvg-id="7360" tvg-name="7360" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/1920px-TV_Tsentr_2013_Logo.svg.png",ТВЦ SD
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Russian" tvg-id="7565" tvg-name="7565" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/1024px-%D0%9CD0%B8%D1%80_%D0%A2%D0%92_logo.svg.png",Мир FHD
