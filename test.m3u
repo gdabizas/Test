@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="vouli" tvg-logo="https://gr-ampelokipoi-prod-cache02.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/vouli1-wide.png",Vouli
-http://85.11.144.9:6651/vou
+http://85.11.144.9:6651/vouli
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://gr-ampelokipoi-prod-cache02.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ertnews-wide2.png",ERT News
 http://85.11.144.9:6651/ert1
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://gr-ampelokipoi-prod-cache02.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ert1-wide_blue.png",ERT 1
-http://85.11.144.9:6651/er2
+http://85.11.144.9:6651/ert2
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://gr-ampelokipoi-prod-cache02.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ert2-wide_red.png",ERT 2
-http://85.11.144.9:6651/et3
+http://85.11.144.9:6651/ert3
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://gr-ampelokipoi-prod-cache02.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ert3-wide_green.png",ERT 3
-http://85.11.144.9:6651/tet
+http://85.11.144.9:6651/ant1
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://gr-ampelokipoi-prod-cache02.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/megahd-wide.png",Mega
 http://85.11.144.9:6651/tet
