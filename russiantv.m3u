@@ -1,0 +1,33 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_RU.xml"
+#EXTINF:-1 group-title="Russian" tvg-id="5960" tvg-name="5960" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png",Россия-24 FHD
+https://tvchannels.short.gy/russia24
+#EXTINF:-1 group-title="Russian" tvg-id="6091" tvg-name="6091" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/2560px-Russia-1.svg.png",Россия-1 FHD
+https://tvchannels.short.gy/russia1
+#EXTINF:-1 group-title="Russian" tvg-id="6227" tvg-name="6227" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/2560px-Russia-Cultura.svg.png",Россия-Культура FHD
+https://tvchannels.short.gy/russiak
+#EXTINF:-1 group-title="Russian" tvg-id="6379" tvg-name="6379" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1024px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",Первый канал HD
+https://tvchannels.short.gy/channel1
+#EXTINF:-1 group-title="Russian" tvg-id="6463" tvg-name="6463" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1024px-Zvezda_logo.svg.png",Звезда HD
+https://tvchannels.short.gy/zvezda
+#EXTINF:-1 group-title="Russian" tvg-id="7184" tvg-name="7184" tvg-logo="https://static.tildacdn.com/tild3536-6636-4830-a235-653366636566/zvezda_plyus.png",Звезда Плюс FHD
+https://tvchannels.short.gy/zvezdaplus
+#EXTINF:-1 group-title="Russian" tvg-id="6228" tvg-name="6228" tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png?278",Красная Линия SD
+https://tvchannels.short.gy/redline
+#EXTINF:-1 group-title="Russian" tvg-id="5926" tvg-name="5926" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1024px-NTV_logo_2003.svg.png",НТВ FHD
+https://tvchannels.short.gy/ntv
+#EXTINF:-1 group-title="Russian" tvg-id="7360" tvg-name="7360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TV_Tsentr_Logo.svg/1024px-TV_Tsentr_Logo.svg.png",ТВЦ SD
+https://tvchannels.short.gy/tvc
+#EXTINF:-1 group-title="Russian" tvg-id="7565" tvg-name="7565" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/1024px-%D0%9CD0%B8%D1%80_%D0%A2%D0%92_logo.svg.png",Мир FHD
+https://tvchannels.short.gy/mir
+#EXTINF:-1 group-title="Russian" tvg-id="6295" tvg-name="6295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/960px-REN_TV_logo_2017.svg.png",РЕН ТВ SD
+https://tvchannels.short.gy/rentv
+#EXTINF:-1 group-title="Russian" tvg-id="7236" tvg-name="7236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1024px-5-tv_logo_%282023%29.svg.png",Пятый канал SD
+https://tvchannels.short.gy/5channel
+#EXTINF:-1 group-title="Russian" tvg-id="7660" tvg-name="7660" tvg-logo="https://pobeda.tv/images/pbd_white.png",Победа HD
+https://tvchannels.short.gy/pobeda
+#EXTINF:-1 group-title="Russian" tvg-id="6873" tvg-name="6873" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC._%D0%97%D0%9A.png/revision/latest/scale-to-width-down/1200?cb=20200831180402&path-prefix=ru",Мосфильм. Золотая Коллекция SD
+https://tvchannels.short.gy/mosfilm
+#EXTINF:-1 group-title="Russian" tvg-id="407170" tvg-name="407170" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Patriot_2025.png/revision/latest/scale-to-width-down/1000?cb=20250302145536",Патриот SD
+https://tvchannels.short.gy/patriot
+#EXTINF:-1 group-title="Russian" tvg-id="412065" tvg-name="412065" tvg-logo="https://static.tildacdn.com/tild6136-3038-4765-b663-663336366261/_18.png",Надежда HD
+https://tvchannels.short.gy/tvhope
