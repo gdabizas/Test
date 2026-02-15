@@ -15,6 +15,12 @@ https://tvchannels.short.gy/zvezdaplus
 https://tvchannels.short.gy/redline
 #EXTINF:-1 group-title="Russia" tvg-id="5926" tvg-name="5926" tvg-logo="https://iili.io/q96Wmvt.png",НТВ FHD
 https://tvchannels.short.gy/ntv
+#EXTINF:-1 group-title="Russia" tvg-id="7660" tvg-name="7660" tvg-logo="https://iili.io/q96XHjs.png",Победа HD
+https://tvchannels.short.gy/pobeda
+#EXTINF:-1 group-title="Russia" tvg-id="6873" tvg-name="6873" tvg-logo="https://iili.io/q96WbaI.webp",Мосфильм. Золотая Коллекция FHD
+https://tvchannels.short.gy/mosfilm
+#EXTINF:-1 group-title="Russia" tvg-id="407170" tvg-name="407170" tvg-logo="https://iili.io/q96X9un.webp",Патриот SD
+https://tvchannels.short.gy/patriot
 #EXTINF:-1 group-title="Russia" tvg-id="7360" tvg-name="7360" tvg-logo="https://iili.io/q96XB87.png",ТВЦ SD
 https://tvchannels.short.gy/tvc
 #EXTINF:-1 group-title="Russia" tvg-id="7565" tvg-name="7565" tvg-logo="https://iili.io/q96Xn99.png",Мир FHD
@@ -27,12 +33,6 @@ https://tvchannels.short.gy/rentv
 https://tvchannels.short.gy/5channel
 #EXTINF:-1 group-title="Russia" tvg-id="smotrim" tvg-name="smotrim" tvg-logo="https://iili.io/q96XfF2.jpg",Смотрим Честный детектив FHD
 https://tvchannels.short.gy/smotrim
-#EXTINF:-1 group-title="Russia" tvg-id="7660" tvg-name="7660" tvg-logo="https://iili.io/q96XHjs.png",Победа HD
-https://tvchannels.short.gy/pobeda
-#EXTINF:-1 group-title="Russia" tvg-id="6873" tvg-name="6873" tvg-logo="https://iili.io/q96WbaI.webp",Мосфильм. Золотая Коллекция FHD
-https://tvchannels.short.gy/mosfilm
-#EXTINF:-1 group-title="Russia" tvg-id="407170" tvg-name="407170" tvg-logo="https://iili.io/q96X9un.webp",Патриот SD
-https://tvchannels.short.gy/patriot
 #EXTINF:-1 group-title="Russia" tvg-id="412065" tvg-name="412065" tvg-logo="https://iili.io/q96WD3N.png",Надежда HD
 https://tvchannels.short.gy/tvhope
 #EXTINF:-1 group-title="Cyprus" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 Cyprus SD
