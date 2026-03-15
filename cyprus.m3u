@@ -5,7 +5,7 @@ http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="rikhd" tvg-name="rikhd" tvg-logo="https://iili.io/qEVKUDQ.png",RIK HD
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Cyprus" tvg-id="omega" tvg-name="omega" tvg-logo="https://www.omegatv.com.cy/assets/img/logo.png",Omega Channel FHD
+#EXTINF:-1 group-title="Cyprus" tvg-id="omega" tvg-name="omega" tvg-logo="https://www.omegatv.com.cy/assets/img/logo.png",Omega Channel FHD
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 Cyprus SD
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
