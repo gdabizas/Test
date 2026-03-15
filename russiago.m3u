@@ -23,6 +23,8 @@ https://tvchannels.short.gy/pobeda
 https://tvchannels.short.gy/mosfilm
 #EXTINF:-1 group-title="Russia" tvg-id="407170" tvg-name="407170" tvg-logo="https://iili.io/q96X9un.webp",Патриот SD
 https://tvchannels.short.gy/patriot
+#EXTINF:-1 group-title="Russia" tvg-id="6538" tvg-name="6538" tvg-logo="https://iili.io/qFoIHLF.webp",Совершенно секретно SD
+https://tvchannels.short.gy/topsecret
 #EXTINF:-1 group-title="Russia" tvg-id="7360" tvg-name="7360" tvg-logo="https://iili.io/q96XB87.png",ТВЦ SD
 https://tvchannels.short.gy/tvc
 #EXTINF:-1 group-title="Russia" tvg-id="7565" tvg-name="7565" tvg-logo="https://iili.io/q96Xn99.png",Мир FHD
@@ -35,5 +37,3 @@ https://tvchannels.short.gy/rentv
 https://tvchannels.short.gy/5channel
 #EXTINF:-1 group-title="Russia" tvg-id="smotrim" tvg-name="smotrim" tvg-logo="https://iili.io/q96XfF2.jpg",Смотрим Честный детектив FHD
 https://tvchannels.short.gy/smotrim
-#EXTINF:-1 group-title="Cyprus" tvg-id="omega" tvg-name="omega" tvg-logo="https://www.omegatv.com.cy/assets/img/logo.png",Omega Channel FHD
-http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
