@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#EXTINF:-1 group-title="Cyprus" tvg-id="rik1" tvg-name="rik1" tvg-logo="https://iili.io/qEVKSOx.png",RIK 1 SD
+http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-id="rik2" tvg-name="rik2" tvg-logo="https://iili.io/qEVKrxV.png",RIK 2 SD
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-id="rikhd" tvg-name="rikhd" tvg-logo="https://iili.io/qEVKUDQ.png",RIK HD
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-id="omega" tvg-name="omega" tvg-logo="https://www.omegatv.com.cy/assets/img/logo.png",Omega Channel FHD
+http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 Cyprus SD
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-id="sigma" tvg-name="sigma" tvg-logo="https://iili.io/qHtN83G.png",Sigma TV SD
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-id="alphacy" tvg-name="alphacy" tvg-logo="https://iili.io/qHtXdNt.png",Alpha TV Cyprus HD
+https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-id="riksat" tvg-name="riksat" tvg-logo="https://iili.io/qEVK8Rj.png",RIK Sat SD
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
