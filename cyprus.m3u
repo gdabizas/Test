@@ -7,11 +7,11 @@ http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="omega" tvg-name="omega" tvg-logo="https://www.omegatv.com.cy/assets/img/logo.png",Omega Channel FHD
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 Cyprus SD
+#EXTINF:-1 group-title="Cyprus" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 Cyprus HD
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="sigma" tvg-name="sigma" tvg-logo="https://iili.io/qHtN83G.png",Sigma TV SD
 https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="alphacy" tvg-name="alphacy" tvg-logo="https://iili.io/qHtXdNt.png",Alpha TV Cyprus HD
-https://l2.cloudskep.com/alphacyp/acy/playlist.m3u8
+https://am8.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="riksat" tvg-name="riksat" tvg-logo="https://iili.io/qEVK8Rj.png",RIK Sat SD
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
