@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_RU.xml"
 #EXTINF:-1 group-title="Russia" tvg-id="5960" tvg-name="5960" tvg-logo="https://iili.io/q96X2nf.png",Россия-24 HD
 https://tvchannels.short.gy/russia24
+#EXTINF:-1 group-title="Russia" tvg-id="5960" tvg-name="5960" tvg-logo="https://iili.io/q96X2nf.png",Россия-24 HD
+https://tvchannels.short.gy/russia24
 #EXTINF:-1 group-title="Russia" tvg-id="6091" tvg-name="6091" tvg-logo="https://iili.io/q96X3G4.png",Россия-1 HD
 https://tvchannels.short.gy/russia1
 #EXTINF:-1 group-title="Russia" tvg-id="6227" tvg-name="6227" tvg-logo="https://iili.io/q96XF6l.png",Россия-Культура SD
