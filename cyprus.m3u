@@ -10,7 +10,7 @@ http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 Cyprus HD
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="sigma" tvg-name="sigma" tvg-logo="https://iili.io/qHtN83G.png",Sigma TV SD
-https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
+https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="alphacy" tvg-name="alphacy" tvg-logo="https://iili.io/qHtXdNt.png",Alpha TV Cyprus HD
 https://l2.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="riksat" tvg-name="riksat" tvg-logo="https://iili.io/qEVK8Rj.png",RIK Sat SD
