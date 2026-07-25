@@ -1,0 +1,465 @@
+#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="vouli" tvg-name="vouli" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/vouli1-wide.png",ΒΟΥΛΗ HD
+http://185.102.171.218/Vouli/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="ertnews" tvg-name="ertnews" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ertnews_new-wide.png",ΕΡΤ NEWS
+http://185.102.171.218/ErtNews/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="ert1" tvg-name="ert1" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ert1_new-wide.png",ΕΡΤ1 HD
+http://185.102.171.218/Ert1HD/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="ert2" tvg-name="ert2" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ert2sport_new-wide.png",ΕΡΤ2 ΣΠΟΡ
+http://185.102.171.218/Ert2HD/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="ert3" tvg-name="ert3" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ert3_new-wide.png",ΕΡΤ3 HD
+http://185.102.171.218/Ert3HD/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="ertworld" tvg-name="ertworld" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ert_cosmos-wide.png",ERT COSMOS
+
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="ant1" tvg-name="ant1" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ant1hd_new-wide.png",ANT1
+http://185.102.171.218/Ant1HD/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="alpha" tvg-name="alpha" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/alphahd-wide.png",ALPHA
+
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="star" tvg-name="star" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/starhd2-wide.png",STAR
+http://185.102.171.218/StarHD/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="skai" tvg-name="skai" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/skaihd-wide.png",ΣΚΑΪ
+http://185.102.171.218/SkaiHD/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="open" tvg-name="open" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/openbeyondhd2-wide.png",OPEN BEYOND
+http://185.102.171.218/OpenHD/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="onetv" tvg-name="onetv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/onechannelhd-wide.png",ONE Channel HD
+
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="mega" tvg-name="mega" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/megahd-wide.png",MEGA HD
+http://185.102.171.218/MegaHD/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="mtv" tvg-name="mtv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/makedoniatv_new-wide.png",Μακεδονία TV HD
+
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="Naftemporikitv" tvg-name="Naftemporikitv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/naftemporhd-wide.png",Naftemporiki
+
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="action24" tvg-name="action24" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/action24_new1-wide.png",Action 24
+http://185.102.171.218/Action24/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="kontra" tvg-name="kontra" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/kontra_new2-wide.png",Kontra
+http://185.102.171.218/Kontra/index.m3u8
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="atticatv" tvg-name="atticatv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/atticatv_2_wide.png",ATTICA TV
+
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="meganews" tvg-name="meganews" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/meganews_new1-wide.png",MEGA News
+
+#EXTINF:-1 group-title="Ελληνικά" tvg-id="Euronews Greek" tvg-name="Euronews Greek" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/euronewsgreek_new-wide.png",Euronews Greek
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="rik1" tvg-name="rik1" tvg-logo="https://iili.io/qEVKSOx.png",RIK 1
+http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="rik2" tvg-name="rik2" tvg-logo="https://iili.io/qEVKrxV.png",RIK 2
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="rikhd" tvg-name="rikhd" tvg-logo="https://iili.io/qEVKUDQ.png",RIK HD
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="omega" tvg-name="omega" tvg-logo="https://www.omegatv.com.cy/assets/img/logo.png",OMEGA HD
+http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 HD
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="sigma" tvg-name="sigma" tvg-logo="https://iili.io/qHtN83G.png",SIGMA TV
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="alphacy" tvg-name="alphacy" tvg-logo="https://iili.io/qHtXdNt.png",Alpha Cyprus HD
+
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="riksat" tvg-name="riksat" tvg-logo="https://iili.io/qEVK8Rj.png",RIK SAT
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="cosmote_cinema_1" tvg-name="cosmote_cinema_1" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTECINEMA1HD_2_wide.png",COSMOTE Cinema 1 HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="cosmote_cinema_2" tvg-name="cosmote_cinema_2" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTECINEMA2HD_2_wide.png",COSMOTE Cinema 2 HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="cosmote_cinema_3" tvg-name="cosmote_cinema_3" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTECINEMA3HD_2_wide.png",COSMOTE Cinema 3 HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="cosmote series" tvg-name="cosmote series" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESERIESHD_2_wide.png",COSMOTE Series HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="cosmote series marathon" tvg-name="cosmote series marathon" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESERIESMARATHONHD_2_wide.png",COSMOTE Series Marathon
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="novalife" tvg-name="novalife" tvg-logo="",Nova Life HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="novacinema1" tvg-name="novacinema1" tvg-logo="",Novacinema1HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="novacinema2" tvg-name="novacinema2" tvg-logo="",Novacinema2HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="novacinema3" tvg-name="novacinema3" tvg-logo="",Novacinema3HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="novacinema4" tvg-name="novacinema4" tvg-logo="",Novacinema4HD
+
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="Village Cinema" tvg-name="Village Cinema" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/villagehd_new-wide.png",Village Cinema HD
+http://185.102.171.218/Village/index.m3u8
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="tcm" tvg-name="tcm" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/tcmhd-wide_new.png",TCM
+http://185.102.171.218/TCM/index.m3u8
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="fx Life" tvg-name="fx Life" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/fxlife_new-wide.png",FX Life
+http://185.102.171.218/FOX_Life/index.m3u8
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="fx" tvg-name="fx" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/fx_new-wide.png",FX
+http://185.102.171.218/FOX/index.m3u8
+#EXTINF:-1 group-title="Ταινίες/Σειρές" tvg-id="E!" tvg-name="E!" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ehd-wide2.png",E! HD
+http://185.102.171.218/Entertainment/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_highlights" tvg-name="cosmote_sport_highlights" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORTHIGHLIGHTSHD_2_wide.png",COSMOTE Sport Highlights HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_1" tvg-name="cosmote_sport_1" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",COSMOTE Sport 1 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_2" tvg-name="cosmote_sport_2" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",COSMOTE Sport 2 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_3" tvg-name="cosmote_sport_3" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",COSMOTE Sport 3 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_4" tvg-name="cosmote_sport_4" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",COSMOTE Sport 4 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_5" tvg-name="cosmote_sport_5" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",COSMOTE Sport 5 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_6" tvg-name="cosmote_sport_6" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",COSMOTE Sport 6 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_7" tvg-name="cosmote_sport_7" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",COSMOTE Sport 7 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_8" tvg-name="cosmote_sport_8" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",COSMOTE Sport 8 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_9" tvg-name="cosmote_sport_9" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",COSMOTE Sport 9 HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cosmote_sport_4k" tvg-name="cosmote_sport_4k" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4K_2_wide.png",COSMOTE Sport 4K
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/sportstarthd-wide.png",COSMOTE Sport Start HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasportsnews" tvg-name="novasportsnews" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Novasports News HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasportsstart" tvg-name="novasportsstart" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Novasports Start HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasportsprime" tvg-name="novasportsprime" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Novasports Prime HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasports1" tvg-name="novasports1" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Novasports1HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasports2" tvg-name="novasports2" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Novasports2HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasports3" tvg-name="novasports3" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Novasports3HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasports4" tvg-name="novasports4" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Novasports4HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasports5" tvg-name="novasports5" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Novasports5HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasports6" tvg-name="novasports6" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Novasports6HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasportspl" tvg-name="novasportspl" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Novasports Premier League HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasportsextra1" tvg-name="novasportsextra1" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/novaextra1-wide.png",Novasportsextra1HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasportsextra2" tvg-name="novasportsextra2" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/novaextra2-wide.png",Novasportsextra2HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasportsextra3" tvg-name="novasportsextra3" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/novaextra3-wide.png",Novasportsextra3HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="novasportsextra4" tvg-name="novasportsextra4" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/novaextra4-wide.png",Novasportsextra4HD
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cytavisionsports1" tvg-name="cytavisionsports1" tvg-logo="https://primetel.com.cy/primetel/logos/1837138.png",Cytavision Sports1 HD
+http://185.102.171.218/Cytavisionsports1/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cytavisionsports2" tvg-name="cytavisionsports2" tvg-logo="https://primetel.com.cy/primetel/logos/1837147.png",Cytavision Sports2 HD
+http://185.102.171.218/Cytavisionsports2/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cytavisionsports3" tvg-name="cytavisionsports3" tvg-logo="https://primetel.com.cy/primetel/logos/1837156.png",Cytavision Sports3 HD
+http://185.102.171.218/Cytavisionsports3/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cytavisionsports4" tvg-name="cytavisionsports4" tvg-logo="https://primetel.com.cy/primetel/logos/1837177.png",Cytavision Sports4 HD
+http://185.102.171.218/Cytavisionsports4/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cytavisionsports5" tvg-name="cytavisionsports5" tvg-logo="https://primetel.com.cy/primetel/logos/1837186.png",Cytavision Sports5 HD
+http://185.102.171.218/Cytavisionsports5/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cytavisionsports6" tvg-name="cytavisionsports6" tvg-logo="https://primetel.com.cy/primetel/logos/1837195.png",Cytavision Sports6 HD
+http://185.102.171.218/Cytavisionsports6/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cytavisionsports7" tvg-name="cytavisionsports7" tvg-logo="https://primetel.com.cy/primetel/logos/1837204.png",Cytavision Sports7 HD
+http://185.102.171.218/Cytavisionsports7/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cytavisionsports8" tvg-name="cytavisionsports8" tvg-logo="https://primetel.com.cy/primetel/logos/1837213.png",Cytavision Sports8 HD
+http://185.102.171.218/Cytavisionsports8/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cablenetsports1" tvg-name="cablenetsports1" tvg-logo="https://primetel.com.cy/primetel/logos/108507.png",Cablenet Sports 1 HD
+http://185.102.171.218/CablenetSports1/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cablenetsports2" tvg-name="cablenetsports2" tvg-logo="https://primetel.com.cy/primetel/logos/539309.png",Cablenet Sports 2 HD
+http://185.102.171.218/CablenetSports2/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="cablenetsports3" tvg-name="cablenetsports3" tvg-logo="https://primetel.com.cy/primetel/logos/1857266.png",Cablenet Sports 3 HD
+http://185.102.171.218/CablenetSports3/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-l0-ogo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/b5a061b4-b270-4285-aad5-2df7a20341c1_l.png",Eurosport 1 HD
+http://185.102.171.218/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/c35bb86f-c7fb-4d30-8169-6329922f6dc2_l.png",Eurosport 2 HD
+http://185.102.171.218/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="Nautical Channel HD" tvg-name="Nautical Channel HD" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/nauticalhd_new-wide.png",Nautical Channel HD
+http://185.102.171.218/Nautical/index.m3u8
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="Motorvision Channel HD" tvg-name="Motorvision Channel HD" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/motorvisionplus-wide.png",Motorvision+
+
+#EXTINF:-1 group-title="Αθλητικά" tvg-id="GINX eSports" tvg-name="GINX eSports" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ginxesports-wide.png",GINX eSports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Μουσικά" tvg-id="madtv" tvg-name="madtv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/madhd-wide.png",MAD HD
+http://185.102.171.218/Mad/index.m3u8
+#EXTINF:-1 group-title="Μουσικά" tvg-id="MAD Viral HD" tvg-name="MAD Viral HD" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/madviralhd_new-wide.png",MAD Viral HD
+
+#EXTINF:-1 group-title="Μουσικά" tvg-id="PanikTV" tvg-name="PanikTV" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/panikhdnew_2_wide.png",Panik TV
+
+#EXTINF:-1 group-title="Μουσικά" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/mezzolivehd_new-wide.png",MEZZO LIVE HD
+
+#EXTINF:-1 group-title="Μουσικά" tvg-id="Stingray CMusic" tvg-name="Stingray CMusic" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/stingraycmusic-wide.png",Stingray CMusic
+
+#EXTINF:-1 group-title="Μουσικά" tvg-id="Stingray iConcerts" tvg-name="Stingray iConcerts" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/stingrayiconc-wide.png",Stingray iConcerts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="COSMOTE HISTORY HD" tvg-name="COSMOTE HISTORY HD" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/COSMOTEHISTORYHD_2_wide.png",COSMOTE History HD
+
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="NationalGeographicChannel" tvg-name="NationalGeographicChannel" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/nationalgeo-wide.png",National Geographic HD
+http://185.102.171.218/NatGeo/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="NatGeoWild" tvg-name="NatGeoWild" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/natgeowildhd2-wide.png",Nat Geo Wild HD
+http://185.102.171.218/NatGeoWild/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/bbcearthhd-wide.png",BBC Earth HD
+http://185.102.171.218/BBCEarth/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="Discoverychannel" tvg-name="Discoverychannel" tvg-logo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/11/06/3bb19cb8-3e55-49b5-9a09-2d9e10d7c432_l.png",Discovery Channel HD
+http://185.102.171.218/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="InvestigationDiscovery" tvg-name="InvestigationDiscovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/3840px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery HD
+http://185.102.171.218/InvestigationDiscovery/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/11/06/6f7e188d-54ef-4db7-bceb-67ac81decd8d_l.png",Animal Planet HD
+http://185.102.171.218/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="ViasatHistory" tvg-name="ViasatHistory" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/viasathistory-wide-v2.png",Viasat History HD
+http://185.102.171.218/ViasatHistory/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="ViasatNature" tvg-name="ViasatNature" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/viasatnature-wide-v2.png",Viasat Nature HD
+http://185.102.171.218/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="ViasatExplore" tvg-name="ViasatExplore" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/viasatexplore-wide-v2.png",Viasat Explore HD
+http://185.102.171.218/ViasatExplorer/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="HistoryChannel" tvg-name="HistoryChannel" tvg-logo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2023/03/29/61ea9372-276c-4992-b7ce-ec30aa0fc943_l.png",History HD
+http://185.102.171.218/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/33425f3b-8eb8-465c-8ba7-a5e9cfdbc18c_l.png",Travel Channel
+http://185.102.171.218/Travel/index.m3u8
+#EXTINF:-1 group-title="Ντοκιμαντέρ" tvg-id="Crime and Investigation" tvg-name="Crime and Investigation" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/crimeinvestig-wide.png",Crime and Investigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/10/19/7985d959-618b-4a1f-992d-4535318e44fa_l.png",TLC HD
+http://185.102.171.218/TLC/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FoodNetwork" tvg-name="FoodNetwork" tvg-logo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/751dfdcf-7b3f-4605-9f53-50c401c99398_l.png",Food Network HD
+http://185.102.171.218/FoodNetwork/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/museumtv-wide.png",Museum TV
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="MyZen TV" tvg-name="MyZen TV" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/MyZen_TV-wide.png",MyZen TV
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Luxe TV" tvg-name="Luxe TV" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/luxetvhd-wide.png",Luxe TV HD
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FTV" tvg-name="FTV" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/fashiontv-wide.png",FTV HD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Παιδικά" tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/disneychannel-wide.png",Disney Channel
+http://185.102.171.218/DisneyChannel/index.m3u8
+#EXTINF:-1 group-title="Παιδικά" tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/disneyjunior3-wide.png",Disney Junior
+http://185.102.171.218/DisneyJunior/index.m3u8
+#EXTINF:-1 group-title="Παιδικά" tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2023/09/04/6b2d66e3-b50f-40e4-be39-bef56a43ba32_l.png",Cartoonito
+http://185.102.171.218/Boomerang/index.m3u8
+#EXTINF:-1 group-title="Παιδικά" tvg-id="nickelodeon" tvg-name="nickelodeon" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/keedoo-wide.png",Keedoo
+http://185.102.171.218/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Παιδικά" tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/babytv-wide.png",Baby TV
+http://185.102.171.218/BabyTV/index.m3u8
+#EXTINF:-1 group-title="Παιδικά" tvg-id="smile" tvg-name="smile" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/smiletv-wide.png",Smile TV
+http://185.102.171.218/SmileTV/index.m3u8
+#EXTINF:-1 group-title="Παιδικά" tvg-id="ducktv" tvg-name="ducktv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/ducktv-wide.png",ducktv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Τοπικά Ελλ." tvg-id="berginatv" tvg-name="berginatv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/verginatv-wide.png",Βεργίνα TV
+
+#EXTINF:-1 group-title="Τοπικά Ελλ." tvg-id="centertv" tvg-name="centertv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/centertv-wide.png",CENTER TV
+
+#EXTINF:-1 group-title="Τοπικά Ελλ." tvg-id="enachannel" tvg-name="enachannel" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/enachannel-wide.png",ENA Channel
+
+#EXTINF:-1 group-title="Τοπικά Ελλ." tvg-id="4e" tvg-name="4e" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/channel4e-wide.png",4Ε
+
+#EXTINF:-1 group-title="Τοπικά Ελλ." tvg-id="neatvcrete" tvg-name="neatvcrete" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/kritineatv-wide.png",Κρήτη Νέα Τηλεόραση
+
+#EXTINF:-1 group-title="Τοπικά Ελλ." tvg-id="krhthtv" tvg-name="krhthtv" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/krititv-wide.png",Κρήτη TV
+
+#EXTINF:-1 group-title="Τοπικά Ελλ." tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/starkentriki_1-wide.png",Star Κεντρικής Ελλάδας
+
+#EXTINF:-1 group-title="Τοπικά Ελλ." tvg-id="tv100" tvg-name="tv100" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/tv100-wide.png",TV100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/cnn-wide.png",CNN
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/bbcnews_new-wide.png",BBC News
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/skynews-wide.png",Sky News
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="DW" tvg-name="DW" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/deutschewelle-wide.png",Deutsche Welle
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/france24en-wide-new.png",France 24 En
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/france24fr-wide.png",France 24 Fr
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/alarabiya-wide.png",Al Arabiya
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/aljazeera-wide.png",Al Jazeera
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/asharq-wide.png",Asharq News
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/bloomberg-wide.png",Bloomberg
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/cnbc_2_wide.png",CNBC
+
+#EXTINF:-1 group-title="Ειδησεογραφικά" tvg-id="" tvg-name="" tvg-logo="https://gr-ermou-prod-cache06.static.cdn.cosmotetvott.gr/ote-prod/channel_logos/euronewseng_new-wide.png",Euronews English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",
