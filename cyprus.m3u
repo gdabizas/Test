@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
-#EXTINF:-1 group-title="Κυπριακά" tvg-id="rik1" tvg-name="rik1" tvg-logo="https://iili.io/qEVKSOx.png",RIK 1 SD
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="rik1" tvg-name="rik1" tvg-logo="https://iili.io/qEVKSOx.png",RIK 1
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="Κυπριακά" tvg-id="rik2" tvg-name="rik2" tvg-logo="https://iili.io/qEVKrxV.png",RIK 2 SD
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="rik2" tvg-name="rik2" tvg-logo="https://iili.io/qEVKrxV.png",RIK 2
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 group-title="Κυπριακά" tvg-id="rikhd" tvg-name="rikhd" tvg-logo="https://iili.io/qEVKUDQ.png",RIK HD
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
-#EXTINF:-1 group-title="Κυπριακά" tvg-id="omega" tvg-name="omega" tvg-logo="https://www.omegatv.com.cy/assets/img/logo.png",Omega Channel HD
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="omega" tvg-name="omega" tvg-logo="https://www.omegatv.com.cy/assets/img/logo.png",OMEGA HD
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1 group-title="Κυπριακά" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 Cyprus HD
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="ant1cy" tvg-name="ant1cy" tvg-logo="https://iili.io/qHtE6hb.png",ANT1 HD
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 group-title="Κυπριακά" tvg-id="sigma" tvg-name="sigma" tvg-logo="https://iili.io/qHtN83G.png",Sigma TV HD
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="sigma" tvg-name="sigma" tvg-logo="https://iili.io/qHtN83G.png",SIGMA TV HD
 https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 group-title="Κυπριακά" tvg-id="alphacy" tvg-name="alphacy" tvg-logo="https://iili.io/qHtXdNt.png",Alpha TV Cyprus HD
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="alphacy" tvg-name="alphacy" tvg-logo="https://iili.io/qHtXdNt.png",Alpha Cyprus HD
 https://l2.cloudskep.com/alphacyp/acy/playlist.m3u8
-#EXTINF:-1 group-title="Κυπριακά" tvg-id="riksat" tvg-name="riksat" tvg-logo="https://iili.io/qEVK8Rj.png",RIK Sat SD
+#EXTINF:-1 group-title="Κυπριακά" tvg-id="riksat" tvg-name="riksat" tvg-logo="https://iili.io/qEVK8Rj.png",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
